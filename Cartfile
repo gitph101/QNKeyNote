@@ -1,0 +1,4 @@
+github "SwiftyJSON/SwiftyJSON" 
+github "Alamofire/Alamofire" ~> 4.3
+github "ReactiveCocoa/ReactiveSwift" ~> 1.0
+
